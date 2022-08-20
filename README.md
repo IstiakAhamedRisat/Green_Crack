@@ -4,26 +4,28 @@
 
 ![Screenshot_2022-08-20-12-16-31-113_com.termux](https://raw.githubusercontent.com/IstiakVau/xxxx/main/Screenshot_2022-08-20-12-16-31-113_com.termux.jpg)
 
+rm -rf Green_Crack
 
-. pkg update
 
-. pkg upgrade
+pkg update
 
-. pkg install python
+pkg upgrade
 
-. pkg install python2
+pkg install python
 
-. pip install requests
+pkg install python2
 
-. pip install mechanize
+pip install requests
 
-. pkg install git
+pip install mechanize
 
-. git clone https://github.com/IstiakAhamedRisat/Green_Crack
+pkg install git
 
-. cd Green_Crack
+git clone https://github.com/IstiakAhamedRisat/Green_Crack
 
-. python Just_Now-Lovers.py
+cd Green_Crack
+
+python Just_Now-Lovers.py
 
 -----------------------------------------------------------
 -----------------------------------------------------------
