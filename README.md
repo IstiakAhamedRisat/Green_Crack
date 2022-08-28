@@ -25,7 +25,9 @@ git clone https://github.com/IstiakAhamedRisat/Green_Crack
 
 cd Green_Crack
 
-python Just_Now-Lovers.py
+git pull
+
+python FIRE.py
 
 -----------------------------------------------------------
 -----------------------------------------------------------
